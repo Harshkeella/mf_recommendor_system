@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+logs/
+mf_recommender.db
+.uploaded_mutual_funds.csv

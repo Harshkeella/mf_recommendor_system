@@ -1,0 +1,101 @@
+user_id,age,occupation,annual_income,number_of_dependents,existing_investments_value,existing_loans_emi_monthly,emergency_fund_months,goal_type,goal_amount,goal_timeline_years,investment_amount_monthly,risk_appetite,investment_experience,reaction_to_market_volatility,need_for_early_withdrawal,lock_in_acceptance,tax_slab,tax_saving_requirements,preferred_equity_exposure,international_exposure_pref,data_quality
+1,68,Government Employee,4000000,3,2500000,148842,9,Marriage,200000,3,10000,Very Critical,Intermediate,Worried but hold,High,Yes,10,No,7,Moderate,synthetic_dummy
+2,45,Salaried,600000,2,200000,25846,3,Marriage,200000,10,1000,Aggressive,Beginner,Neutral,Medium,Maybe,20,Yes,72,None,synthetic_dummy
+3,45,Student,4000000,0,50000,85424,6,Wealth Creation,2500000,2,10000,Balanced,Experienced,Worried but hold,Medium,No,30,Yes,53,Moderate,synthetic_dummy
+4,33,Business Owner,4000000,4,2500000,113022,9,Child Education,5000000,15,50000,Very Aggressive,Experienced,Very comfortable,Medium,Yes,5,No,90,Moderate,synthetic_dummy
+5,55,Professional,300000,3,500000,2886,2,Marriage,5000000,7,1000,Aggressive,Experienced,Panic sell,High,Yes,30,Yes,66,None,synthetic_dummy
+6,68,Business Owner,600000,1,2500000,14843,2,Emergency Corpus,5000000,7,10000,Aggressive,Experienced,Neutral,Medium,Maybe,5,No,74,None,synthetic_dummy
+7,57,Salaried,300000,4,0,8362,9,Tax Saving,200000,15,5000,Critical,Beginner,Neutral,High,Yes,30,No,19,High,synthetic_dummy
+8,60,Student,900000,3,50000,26609,1,Travel,500000,15,50000,Aggressive,Intermediate,Buy more on dips,High,No,5,Yes,73,Low,synthetic_dummy
+9,20,Professional,300000,0,500000,2359,12,Travel,200000,20,2500,Aggressive,Experienced,Worried but hold,Medium,Maybe,20,No,67,High,synthetic_dummy
+10,44,Government Employee,900000,1,1000000,12176,2,Travel,5000000,15,10000,Very Aggressive,Experienced,Very comfortable,Medium,Yes,5,Yes,85,High,synthetic_dummy
+11,65,Professional,900000,0,200000,38028,3,Child Education,10000000,20,50000,Very Critical,Experienced,Very comfortable,High,Yes,30,No,2,None,synthetic_dummy
+12,63,Student,2500000,4,500000,104608,6,Marriage,1000000,7,25000,Very Aggressive,Experienced,Neutral,Medium,No,0,No,85,Moderate,synthetic_dummy
+13,30,Retiree,300000,4,50000,12278,6,Retirement,200000,7,50000,Very Aggressive,Experienced,Neutral,Low,Maybe,20,Yes,89,Moderate,synthetic_dummy
+14,51,Freelancer,300000,1,200000,8283,0,Child Education,500000,2,25000,Balanced,Experienced,Worried but hold,Low,Maybe,10,Yes,49,High,synthetic_dummy
+15,43,Freelancer,4000000,1,0,68485,1,House Purchase,5000000,5,100000,Aggressive,Intermediate,Buy more on dips,Medium,Yes,0,No,67,Low,synthetic_dummy
+16,33,Student,1800000,2,200000,7120,3,Wealth Creation,500000,7,10000,Very Critical,Intermediate,Buy more on dips,Medium,No,20,Yes,0,High,synthetic_dummy
+17,20,Government Employee,900000,3,200000,25035,12,Travel,200000,10,1000,Very Aggressive,Experienced,Neutral,Medium,No,30,No,95,None,synthetic_dummy
+18,36,Retiree,2500000,4,200000,51269,9,House Purchase,5000000,20,100000,Critical,Intermediate,Very comfortable,High,Maybe,5,Yes,25,None,synthetic_dummy
+19,20,Freelancer,1200000,0,50000,34423,0,Retirement,500000,2,50000,Aggressive,Experienced,Panic sell,High,Maybe,10,Yes,70,None,synthetic_dummy
+20,65,Salaried,300000,0,2500000,14031,1,Emergency Corpus,10000000,3,25000,Aggressive,Intermediate,Buy more on dips,Low,Yes,5,No,75,Moderate,synthetic_dummy
+21,69,Freelancer,1200000,2,0,16864,2,Emergency Corpus,200000,3,10000,Very Critical,Beginner,Buy more on dips,High,No,20,Yes,4,High,synthetic_dummy
+22,31,Student,2500000,3,2500000,14212,2,Child Education,500000,3,25000,Very Aggressive,Beginner,Panic sell,High,Maybe,0,No,91,High,synthetic_dummy
+23,21,Government Employee,1200000,1,200000,42786,3,Retirement,2500000,1,5000,Very Critical,Experienced,Buy more on dips,Medium,No,5,No,10,None,synthetic_dummy
+24,54,Government Employee,600000,0,200000,12596,3,Retirement,5000000,20,5000,Very Critical,Experienced,Panic sell,Medium,Maybe,10,No,9,None,synthetic_dummy
+25,49,Freelancer,4000000,2,2500000,169814,3,Child Education,200000,5,10000,Critical,Experienced,Neutral,Medium,Yes,5,No,23,Low,synthetic_dummy
+26,28,Government Employee,300000,1,200000,415,3,Marriage,200000,5,100000,Aggressive,Beginner,Panic sell,Medium,Yes,30,No,71,None,synthetic_dummy
+27,45,Salaried,300000,1,0,13223,9,House Purchase,10000000,20,25000,Very Aggressive,Intermediate,Panic sell,Medium,Maybe,5,Yes,87,Low,synthetic_dummy
+28,64,Business Owner,2500000,1,1000000,1882,0,Child Education,200000,3,10000,Very Critical,Beginner,Buy more on dips,Low,Maybe,30,Yes,4,None,synthetic_dummy
+29,71,Business Owner,600000,3,200000,11054,12,Wealth Creation,10000000,15,25000,Balanced,Beginner,Very comfortable,High,No,30,Yes,46,None,synthetic_dummy
+30,37,Salaried,600000,3,50000,5506,0,Travel,2500000,10,2500,Very Aggressive,Beginner,Panic sell,Medium,Yes,30,Yes,87,None,synthetic_dummy
+31,31,Business Owner,300000,4,2500000,14531,2,Marriage,10000000,7,2500,Aggressive,Intermediate,Worried but hold,High,Maybe,5,Yes,72,Low,synthetic_dummy
+32,65,Business Owner,1200000,4,0,5768,6,Child Education,200000,7,25000,Balanced,Experienced,Neutral,Low,Maybe,5,Yes,51,High,synthetic_dummy
+33,69,Student,2500000,1,50000,36231,1,Retirement,500000,1,50000,Critical,Beginner,Neutral,Medium,Yes,20,No,16,Moderate,synthetic_dummy
+34,41,Student,1800000,3,1000000,5677,0,Child Education,500000,2,2500,Very Critical,Beginner,Buy more on dips,Low,Maybe,0,No,8,High,synthetic_dummy
+35,32,Professional,2500000,2,50000,30154,3,Wealth Creation,200000,2,2500,Balanced,Beginner,Buy more on dips,Low,No,20,Yes,48,High,synthetic_dummy
+36,29,Government Employee,600000,4,200000,14909,2,Wealth Creation,500000,3,10000,Aggressive,Intermediate,Worried but hold,High,Maybe,5,Yes,70,Moderate,synthetic_dummy
+37,28,Business Owner,300000,3,2500000,7513,6,House Purchase,500000,15,5000,Critical,Experienced,Very comfortable,High,Yes,30,No,20,High,synthetic_dummy
+38,33,Business Owner,1800000,3,200000,60655,3,Wealth Creation,10000000,7,100000,Very Critical,Experienced,Worried but hold,Low,Yes,5,No,6,None,synthetic_dummy
+39,22,Student,1200000,4,500000,2203,1,Child Education,2500000,15,100000,Very Aggressive,Experienced,Panic sell,Low,Maybe,0,No,91,Low,synthetic_dummy
+40,28,Government Employee,900000,2,500000,15667,12,Retirement,10000000,2,5000,Very Critical,Intermediate,Buy more on dips,High,Maybe,5,No,7,Low,synthetic_dummy
+41,70,Retiree,4000000,2,0,164314,2,Travel,200000,20,10000,Very Critical,Intermediate,Very comfortable,Low,Maybe,10,Yes,10,None,synthetic_dummy
+42,59,Retiree,900000,0,0,33733,2,Tax Saving,2500000,10,5000,Very Critical,Beginner,Very comfortable,Low,Yes,20,Yes,1,Low,synthetic_dummy
+43,41,Freelancer,600000,4,200000,3721,2,Travel,10000000,20,100000,Very Aggressive,Intermediate,Panic sell,High,No,5,No,88,High,synthetic_dummy
+44,51,Retiree,1800000,4,200000,16083,12,Child Education,5000000,20,5000,Very Aggressive,Beginner,Buy more on dips,High,Yes,20,No,95,Low,synthetic_dummy
+45,38,Retiree,300000,0,2500000,2699,0,Emergency Corpus,2500000,7,2500,Very Critical,Intermediate,Very comfortable,High,No,5,No,2,High,synthetic_dummy
+46,48,Government Employee,2500000,0,200000,38209,3,Tax Saving,500000,5,100000,Very Critical,Experienced,Neutral,Medium,Maybe,30,No,0,High,synthetic_dummy
+47,39,Professional,1800000,1,0,40172,1,Tax Saving,2500000,3,5000,Balanced,Intermediate,Buy more on dips,High,Maybe,10,Yes,48,Moderate,synthetic_dummy
+48,31,Student,600000,1,200000,5283,2,House Purchase,1000000,5,25000,Very Critical,Beginner,Very comfortable,Low,Yes,5,No,0,Moderate,synthetic_dummy
+49,29,Student,900000,3,50000,35380,3,Tax Saving,200000,3,1000,Very Aggressive,Beginner,Panic sell,Low,Maybe,20,No,89,Moderate,synthetic_dummy
+50,50,Government Employee,900000,4,500000,43705,0,House Purchase,1000000,3,50000,Very Aggressive,Experienced,Very comfortable,High,No,0,Yes,92,High,synthetic_dummy
+51,59,Retiree,4000000,1,1000000,116909,1,Emergency Corpus,200000,10,25000,Very Critical,Beginner,Panic sell,High,Maybe,5,No,5,None,synthetic_dummy
+52,52,Student,1200000,1,50000,32143,9,Travel,5000000,10,1000,Very Aggressive,Intermediate,Buy more on dips,Medium,Yes,10,No,94,Moderate,synthetic_dummy
+53,42,Freelancer,900000,3,50000,36767,12,Travel,10000000,2,10000,Critical,Experienced,Buy more on dips,High,Maybe,20,Yes,22,Low,synthetic_dummy
+54,33,Student,900000,3,2500000,34426,2,Travel,2500000,10,1000,Very Critical,Beginner,Very comfortable,Medium,Maybe,0,Yes,9,Low,synthetic_dummy
+55,31,Retiree,4000000,3,2500000,75881,3,Wealth Creation,5000000,20,5000,Very Critical,Beginner,Panic sell,High,No,20,No,4,High,synthetic_dummy
+56,27,Professional,2500000,2,200000,54677,3,Child Education,500000,3,1000,Aggressive,Experienced,Neutral,Low,No,0,No,75,Moderate,synthetic_dummy
+57,60,Professional,2500000,3,200000,90996,1,Retirement,10000000,2,25000,Balanced,Beginner,Neutral,Medium,Maybe,0,Yes,53,Moderate,synthetic_dummy
+58,30,Government Employee,300000,2,0,5917,6,Wealth Creation,1000000,15,5000,Balanced,Experienced,Worried but hold,High,Maybe,30,Yes,45,Moderate,synthetic_dummy
+59,40,Salaried,4000000,2,50000,71161,6,Emergency Corpus,5000000,10,5000,Very Critical,Intermediate,Buy more on dips,Medium,No,5,Yes,8,None,synthetic_dummy
+60,33,Professional,600000,4,1000000,7245,9,Child Education,10000000,5,100000,Very Aggressive,Intermediate,Buy more on dips,High,Yes,30,Yes,94,None,synthetic_dummy
+61,50,Business Owner,900000,2,2500000,23761,2,Retirement,5000000,3,100000,Aggressive,Experienced,Panic sell,High,Yes,10,Yes,74,Low,synthetic_dummy
+62,39,Professional,600000,1,500000,4266,0,Wealth Creation,200000,2,1000,Aggressive,Beginner,Panic sell,Low,Maybe,20,Yes,66,High,synthetic_dummy
+63,27,Retiree,900000,0,50000,4341,1,Tax Saving,200000,7,25000,Very Critical,Beginner,Panic sell,High,Maybe,5,No,1,Moderate,synthetic_dummy
+64,42,Professional,600000,4,0,25585,6,Wealth Creation,200000,5,1000,Very Aggressive,Experienced,Worried but hold,Medium,Yes,30,Yes,94,None,synthetic_dummy
+65,33,Student,1800000,3,500000,48033,1,Wealth Creation,200000,3,2500,Aggressive,Intermediate,Panic sell,Medium,Yes,10,No,75,None,synthetic_dummy
+66,53,Freelancer,600000,3,500000,24978,0,Travel,10000000,10,1000,Balanced,Intermediate,Buy more on dips,Low,Maybe,0,No,53,High,synthetic_dummy
+67,34,Business Owner,1800000,3,0,38088,9,Marriage,2500000,15,50000,Critical,Experienced,Panic sell,Medium,No,10,Yes,16,None,synthetic_dummy
+68,29,Business Owner,1200000,3,1000000,45549,12,Travel,1000000,2,2500,Critical,Beginner,Worried but hold,Medium,Maybe,10,No,16,Moderate,synthetic_dummy
+69,68,Student,2500000,4,500000,77810,6,Emergency Corpus,2500000,7,50000,Aggressive,Beginner,Buy more on dips,High,Yes,30,No,70,High,synthetic_dummy
+70,51,Business Owner,600000,1,500000,973,6,Tax Saving,2500000,2,50000,Very Critical,Beginner,Neutral,Low,Maybe,0,Yes,1,None,synthetic_dummy
+71,62,Retiree,4000000,4,200000,129024,6,Tax Saving,10000000,20,10000,Critical,Experienced,Very comfortable,High,Yes,20,No,19,None,synthetic_dummy
+72,44,Retiree,1200000,2,2500000,55893,12,Emergency Corpus,200000,15,1000,Aggressive,Experienced,Worried but hold,Medium,No,5,Yes,72,Moderate,synthetic_dummy
+73,65,Government Employee,1200000,3,1000000,50070,6,Marriage,2500000,2,50000,Very Aggressive,Intermediate,Very comfortable,High,Maybe,30,Yes,95,High,synthetic_dummy
+74,36,Salaried,1200000,4,50000,24759,12,Tax Saving,200000,10,1000,Balanced,Intermediate,Very comfortable,High,Maybe,30,No,50,High,synthetic_dummy
+75,26,Business Owner,1200000,2,2500000,23420,2,Child Education,10000000,15,2500,Balanced,Experienced,Panic sell,Medium,Yes,5,No,45,Low,synthetic_dummy
+76,21,Salaried,1800000,2,2500000,4899,3,Retirement,5000000,20,10000,Aggressive,Intermediate,Buy more on dips,Low,No,10,No,74,None,synthetic_dummy
+77,71,Business Owner,1200000,0,1000000,45276,2,Tax Saving,5000000,5,100000,Balanced,Intermediate,Worried but hold,Medium,Maybe,10,Yes,52,Low,synthetic_dummy
+78,38,Salaried,900000,0,1000000,19485,2,Emergency Corpus,10000000,15,1000,Critical,Beginner,Very comfortable,Low,No,30,No,24,Low,synthetic_dummy
+79,42,Freelancer,4000000,0,50000,170796,3,Travel,2500000,7,50000,Very Aggressive,Intermediate,Very comfortable,Low,No,30,Yes,89,None,synthetic_dummy
+80,60,Freelancer,2500000,4,2500000,113077,6,Travel,500000,3,50000,Very Aggressive,Experienced,Panic sell,Low,Yes,20,No,92,High,synthetic_dummy
+81,29,Government Employee,600000,1,50000,24459,12,Travel,1000000,7,100000,Aggressive,Intermediate,Neutral,Low,Yes,0,No,71,Low,synthetic_dummy
+82,45,Retiree,600000,0,500000,4913,3,Retirement,1000000,5,10000,Very Critical,Beginner,Worried but hold,Medium,Yes,20,Yes,3,Moderate,synthetic_dummy
+83,70,Freelancer,4000000,2,1000000,172666,2,Child Education,200000,3,1000,Very Critical,Intermediate,Neutral,Low,Maybe,0,Yes,7,High,synthetic_dummy
+84,66,Professional,4000000,1,1000000,61876,2,Marriage,200000,2,25000,Very Aggressive,Beginner,Worried but hold,Low,Yes,30,No,93,Moderate,synthetic_dummy
+85,57,Business Owner,2500000,3,200000,105623,3,Travel,500000,5,1000,Aggressive,Intermediate,Very comfortable,High,No,5,No,68,None,synthetic_dummy
+86,40,Professional,1800000,3,200000,62240,0,Retirement,1000000,5,10000,Balanced,Experienced,Panic sell,Low,Maybe,10,Yes,47,Moderate,synthetic_dummy
+87,55,Student,1200000,2,0,41874,3,Emergency Corpus,500000,10,100000,Very Critical,Intermediate,Panic sell,High,No,20,Yes,8,Low,synthetic_dummy
+88,48,Student,2500000,2,2500000,115273,3,Tax Saving,200000,15,100000,Very Critical,Experienced,Buy more on dips,High,Yes,20,No,4,None,synthetic_dummy
+89,42,Government Employee,1200000,4,500000,47790,12,House Purchase,200000,10,50000,Aggressive,Beginner,Buy more on dips,High,Maybe,5,No,65,Moderate,synthetic_dummy
+90,56,Government Employee,300000,0,500000,2585,12,Tax Saving,500000,5,100000,Very Aggressive,Intermediate,Buy more on dips,Low,Yes,30,No,95,Low,synthetic_dummy
+91,63,Student,1800000,2,1000000,36935,1,Retirement,1000000,5,2500,Very Critical,Beginner,Very comfortable,Low,Maybe,20,Yes,6,None,synthetic_dummy
+92,49,Freelancer,600000,2,50000,22978,0,Tax Saving,5000000,3,10000,Very Critical,Beginner,Very comfortable,High,Yes,30,No,6,High,synthetic_dummy
+93,72,Student,2500000,3,50000,15533,3,Wealth Creation,1000000,5,5000,Critical,Experienced,Worried but hold,Medium,Maybe,20,Yes,18,High,synthetic_dummy
+94,31,Freelancer,1200000,1,1000000,1885,9,Marriage,5000000,7,10000,Balanced,Beginner,Panic sell,Medium,Yes,5,No,48,High,synthetic_dummy
+95,63,Salaried,600000,3,0,23214,2,Wealth Creation,200000,15,1000,Very Aggressive,Intermediate,Neutral,Low,Maybe,30,Yes,89,None,synthetic_dummy
+96,36,Salaried,1800000,4,1000000,49930,1,Emergency Corpus,1000000,7,2500,Aggressive,Beginner,Very comfortable,Medium,No,30,No,75,Low,synthetic_dummy
+97,25,Student,900000,4,200000,28372,9,Tax Saving,1000000,3,1000,Balanced,Intermediate,Neutral,Medium,Maybe,5,No,46,Moderate,synthetic_dummy
+98,47,Salaried,600000,2,50000,24145,1,Retirement,10000000,20,50000,Critical,Beginner,Worried but hold,High,No,20,No,23,Low,synthetic_dummy
+99,65,Student,1200000,3,500000,7603,3,Child Education,1000000,20,50000,Very Critical,Experienced,Worried but hold,High,No,30,Yes,7,Low,synthetic_dummy
+100,38,Salaried,600000,1,1000000,24573,12,House Purchase,5000000,7,2500,Very Aggressive,Intermediate,Panic sell,High,No,30,Yes,95,Moderate,synthetic_dummy
