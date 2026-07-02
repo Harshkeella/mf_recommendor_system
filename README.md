@@ -50,6 +50,18 @@ or, without pytest:
 python -m unittest discover -s tests
 ```
 
+## Deploy On Render
+
+This repo includes `render.yaml` for a Streamlit web service.
+
+Use Render Blueprint deploy from the GitHub repo, or create a Web Service manually with:
+
+```text
+Runtime: Python
+Build command: pip install -r requirements.txt
+Start command: streamlit run streamlit_app.py --server.address 0.0.0.0 --server.port $PORT --server.headless true
+```
+
 ## Main Modules
 
 - `app/data_loader.py`: CSV schema validation and loading
