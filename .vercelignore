@@ -1,9 +1,12 @@
-.venv/
-__pycache__/
-*.py[cod]
+.agents/
+.codex/
+.git/
 .pytest_cache/
+.venv/
+.vercel/
+__pycache__/
 logs/
+tests/
+*.py[cod]
 mf_recommender.db
 .uploaded_mutual_funds.csv
-
-.vercel

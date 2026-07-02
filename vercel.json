@@ -1,0 +1,16 @@
+{
+  "services": {
+    "mf-recommendor-system": {
+      "root": "."
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": {
+        "type": "service",
+        "service": "mf-recommendor-system"
+      }
+    }
+  ]
+}
