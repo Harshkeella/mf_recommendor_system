@@ -19,6 +19,16 @@ app = FastAPI(
 engine = RecommendationEngine()
 
 
+@app.get("/")
+def root() -> dict[str, object]:
+    return {
+        "service": "Indian Mutual Fund Recommender",
+        "status": "ok",
+        "docs": "/docs",
+        "health": "/health",
+    }
+
+
 @app.get("/health")
 def health() -> dict[str, str]:
     return {"status": "ok", "disclaimer": DISCLAIMER}

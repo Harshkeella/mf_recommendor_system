@@ -62,6 +62,26 @@ Build command: pip install -r requirements.txt
 Start command: streamlit run streamlit_app.py --server.address 0.0.0.0 --server.port $PORT --server.headless true
 ```
 
+## Deploy On Vercel
+
+Vercel deploys the FastAPI app from `app.api:app`, configured in `pyproject.toml`.
+
+Use Vercel's Git import for this repo or deploy with the Vercel CLI:
+
+```powershell
+npx vercel --prod
+```
+
+After deployment, open:
+
+```text
+/
+/health
+/docs
+```
+
+The Streamlit advisor UI is intended for Render or another long-running Python web host. Vercel should be used for the FastAPI API surface.
+
 ## Main Modules
 
 - `app/data_loader.py`: CSV schema validation and loading
