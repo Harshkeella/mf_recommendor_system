@@ -1,7 +1,9 @@
 {
   "services": {
     "mf-recommendor-system": {
-      "root": "."
+      "root": ".",
+      "framework": "fastapi",
+      "entrypoint": "app/api.py"
     }
   },
   "rewrites": [
