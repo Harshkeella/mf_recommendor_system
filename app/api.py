@@ -8,6 +8,7 @@ from .data_loader import load_funds
 from .database import initialize_database
 from .recommender import RecommendationEngine
 from .schemas import AdvisorContextRequest, AdvisorContextSimulationRequest, RecommendationRequest
+from .web_home import HOME_PAGE_HTML
 from services.advisor_context_engine import generate_advisor_context, simulate_advisor_context
 
 
@@ -22,6 +23,7 @@ engine = RecommendationEngine()
 
 @app.get("/", response_class=HTMLResponse)
 def root() -> str:
+    return HOME_PAGE_HTML
     return """
 <!doctype html>
 <html lang="en">
